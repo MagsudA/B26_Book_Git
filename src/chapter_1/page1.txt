@@ -1,10 +1,8 @@
 
 
-
-
-
-
-
 Create new project -->
 go to VCS panel -->
 Enable Version Control Integration -->
+
+Commit --> First need commit then rite commit message (Whatever u want ).
+Go to Git --> GitHub --> Share Project on GitHub
