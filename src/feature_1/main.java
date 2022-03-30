@@ -1,4 +1,4 @@
-package class_pack;
+package feature_1;
 
 public class main {
 
