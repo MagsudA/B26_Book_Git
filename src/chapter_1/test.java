@@ -5,6 +5,7 @@ public class test {
 
         // Regression Test
         // Regression Test2
+        // Smoke Test
 
     }
 }
