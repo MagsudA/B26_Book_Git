@@ -3,4 +3,4 @@
 *.xml
 out
 src/chapter_1/secret.txt
-SecretFile.txt
+src/chapter_1/SecretFile.txt
