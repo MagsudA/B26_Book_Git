@@ -4,7 +4,6 @@ public class test {
     public static void main(String[] args) {
 
         // Smoke Test
-  
-        // Regression Test
+        // Smoke Test2
     }
 }
